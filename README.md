@@ -2,6 +2,6 @@
 
 ### Cineflex
 
-Foi possível através da ferramente React a criação de uma bilheteria de ingressos, usando dinamicamente o React Router é possível acessar os horário disponíveis de filme, assentos, e por fim o ingresso escolhido com todas as informações anteriores.
+Foi possível através da ferramente React a criação de uma bilheteria de ingressos, usando dinamicamente o React Router é possível acessar os horário disponíveis dos filmes, assentos, e por fim o ingresso escolhido com todas as informações anteriores.
 
 Link do deploy: https://cineflex-git-master-contatoestevao883.vercel.app/ (versão mobile)
